@@ -1,13 +1,20 @@
 #info {
-    background: #BEBEBE;
     font-family: Courier;
     font-size: 20px;
+}
+
+.pic-wrapper {
+    text-align: center;
+}
+
+.icon-wrapper {
+    text-align: center;
 }
 
 .fa {
     padding: 20px;
     font-size: 30px;
-    width: 50px;
+    width: 65px;
     text-align: center;
     text-decoration: none;
 }
@@ -27,7 +34,7 @@
 }
 
 .fa-github {
-    background: #000000;
+    background: #444444;
     color: white;
 }
 
