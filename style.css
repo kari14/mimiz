@@ -7,8 +7,11 @@
     text-align: center;
 }
 
+.pic-wrapper img {
+    display: inline;
+}
+
 .icon-wrapper {
-    text-align: center;
     padding-top: 50px;
 }
 
@@ -42,4 +45,10 @@
 .fa-file {
     background: #555555;
     color: white;
+}
+
+@media screen and (max-with: 991px) {
+    .icon-wrapper {
+        text-align: center;
+    }
 }
